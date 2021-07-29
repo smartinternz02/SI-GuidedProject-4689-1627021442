@@ -8,15 +8,7 @@ The aim of our project is to build a web application to predict find the nature 
 Loan approval is an important process for banking organizations. The system approved or reject the loan applications. So, for a bank employee with this application can easily come to a decision whether the applicant is eligible or not.
 It is difficult to predict the possibility of payment of loan by the customer. Using Artificial Neural Network (ANN) we can predict the loan status of applicant.
 
-This project is build by using Artificial Neural Networks(ANN)
-These are the steps for this project: 
-   1)Installing the required packages and libraries.  
-   2)Importing the required libraries for the model to run.  
-   3)Downloading the dataset, feeding it to the model, and understanding the dataset  
-   4)Data Preprocessing – Checking for outliers and null values. If there any null values we use Label Encoding to convert them into binary format. 
-   5)Dividing the model into Train and Test data. 
-   6)Building ANN model and predicting. 
-   6)Building Flask Web Application. 
+This project is build by using Artificial Neural Networks(ANN). 
 
 
 Web Application Screen Shots
